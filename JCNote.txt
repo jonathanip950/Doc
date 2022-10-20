@@ -1,0 +1,24 @@
+RemoteDesktop: 10.194.163.64
+Account:  10.194.163.64\corpadmin         0000abc!
+You should be able to find a list of tools under this: \\stessdnsvm01\SBS_EI\Tools
+net use h: \\10.194.71.216\SBS_EI\Tools
+
+Operation Doc (DEV login)
+https://eipportals.corp.hkjc.com/sites/itdcs-ei/portal/ei/Shared Documents/Public/Configuration/Installation Notes/IT Operation Guide/IDMI R2/ DV019 - IT Operation Guide IDA.OPR (L1.13_v7).docx
+
+Citrix ZenDesktop https://itterminal.corp.hkjc.com/Citrix/DesktopWeb/auth/login.aspx
+Conflunce :https://deopconf01.corp.hkjc.com/display/SBSEI/EI+Tools 
+UCD : https://deopadnp.corp.hkjc.com:8443/
+
+UCR:https://deopar.corp.hkjc.com:8443/login
+BitBucket :https://devgit01.corpdev.hkjc.com:8443/projects
+ivan video: https://deopconf01.corp.hkjc.com/display/ITDCSI/IDA.OPR#IDA.OPR-OtherMaterial
+
+(DEV->)\\stessdnsvm01\SBS_EI\ReleaseDoc\2022\DEC\idaopr\
+
+HR System:https://hcms.corp.hkjc.com
+
+
+df -H
+du -hs * | sort -h
+su password:0000abc!
