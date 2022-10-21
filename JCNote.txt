@@ -1,3 +1,5 @@
+TimeSheet: https://deopjira01.corp.hkjc.com/secure/Tempo.jspa#/my-work/week?type=LIST
+
 RemoteDesktop: 10.194.163.64
 Account:  10.194.163.64\corpadmin         0000abc!
 You should be able to find a list of tools under this: \\stessdnsvm01\SBS_EI\Tools
@@ -16,11 +18,11 @@ BitBucket :https://devgit01.corpdev.hkjc.com:8443/projects
 ivan video: https://deopconf01.corp.hkjc.com/display/ITDCSI/IDA.OPR#IDA.OPR-OtherMaterial
 
 (DEV->)\\stessdnsvm01\SBS_EI\ReleaseDoc\2022\DEC\idaopr\
-
+\\stessdnsvm01\SBS_EI\ReleaseDoc\2022\DEC\idaopr\L1.19R1\
 HR System:https://hcms.corp.hkjc.com
 
 
-
+to Check status on idaoprstbas01(su -uaioprsx) cd /app/uaioprst/uat1/idaopr-util-script/util/current/
 df -H
 du -hs * | sort -h
 su password:0000abc!
