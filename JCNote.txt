@@ -26,3 +26,7 @@ to Check status on idaoprstbas01(su -uaioprsx) cd /app/uaioprst/uat1/idaopr-util
 df -H
 du -hs * | sort -h
 su password:0000abc!
+
+splunk: http://10.134.80.2:8000/en-US/app/search/search
+https://devwin21/en-US/account/login?return_to=%2Fen-US%2Fapp%2FIDA_SUB%2Fsearch
+admin / 0000abc!
