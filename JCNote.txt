@@ -17,7 +17,7 @@ UCR:https://deopar.corp.hkjc.com:8443/login
 BitBucket :https://devgit01.corpdev.hkjc.com:8443/projects
 ivan video: https://deopconf01.corp.hkjc.com/display/ITDCSI/IDA.OPR#IDA.OPR-OtherMaterial
 
-(DEV->)\\stessdnsvm01\SBS_EI\ReleaseDoc\2022\DEC\idaopr\
+release doc:(DEV->)\\stessdnsvm01\SBS_EI\ReleaseDoc\2022\DEC\idaopr\
 \\stessdnsvm01\SBS_EI\ReleaseDoc\2022\DEC\idaopr\L1.19R1\
 HR System:https://hcms.corp.hkjc.com
 
