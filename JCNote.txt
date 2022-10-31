@@ -27,6 +27,7 @@ df -H
 du -hs * | sort -h
 su password:0000abc!
 
+ansible:https://10.134.82.132/#/login
 splunk prod : http://10.134.80.2:8000/en-US/app/search/search
 splunk dev : https://devwin21/en-US/account/login?return_to=%2Fen-US%2Fapp%2FIDA_SUB%2Fsearch
 admin / 0000abc!
