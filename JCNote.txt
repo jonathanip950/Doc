@@ -7,10 +7,14 @@ net use h: \\10.194.71.216\SBS_EI\Tools
 rhkjc_dm\jonathanlsip
 ##########################
 GIT without SSL
+
 1.  Create a new directory called <project_name>
 
 2. Right-Click on the new directory and select "Git Bash Here"
 
+git -c http.sslVerify=false clone https://devgit01.corpdev.hkjc.com:8443/scm/ei/ei-ida-ansible.git
+
+OR
 git init
 
 git config http.sslVerify false
