@@ -5,7 +5,18 @@ Account:  10.194.163.64\corpadmin         0000abc!
 You should be able to find a list of tools under this: \\stessdnsvm01\SBS_EI\Tools
 net use h: \\10.194.71.216\SBS_EI\Tools
 rhkjc_dm\jonathanlsip
+##########################
+GIT without SSL
+1.  Create a new directory called <project_name>
 
+2. Right-Click on the new directory and select "Git Bash Here"
+
+git init
+
+git config http.sslVerify false
+
+git remote add origin https://devgit01.corpdev.hkjc.com:8443/scm/ei/ei-ida-opr-service.git
+########################
 Operation Doc (DEV login)
 https://eipportals.corp.hkjc.com/sites/itdcs-ei/portal/ei/Shared Documents/Public/Configuration/Installation Notes/IT Operation Guide/IDMI R2/ DV019 - IT Operation Guide IDA.OPR (L1.13_v7).docx
 
@@ -26,12 +37,12 @@ to Check status on idaoprstbas01(su -uaioprsx) cd /app/uaioprst/uat1/idaopr-util
 df -H
 du -hs * | sort -h
 su password:0000abc!
-
+############################
 ansible:https://10.134.82.132/#/login
 splunk prod : http://10.134.80.2:8000/en-US/app/search/search
 splunk dev : https://devwin21/en-US/account/login?return_to=%2Fen-US%2Fapp%2FIDA_SUB%2Fsearch
 admin / 0000abc!
-
+##############################
 deploy uat
 SQL server: 10.27.136.11
 ./bin/importProfile.py -o INTERNAL -p /app/<EnvAbbr>ioprst/<Env>/deploy/CSV/<Folder>    (if whole file cannot import , try run command seperatly, essential -> client-> group)
