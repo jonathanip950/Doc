@@ -33,6 +33,7 @@ splunk dev : https://devwin21/en-US/account/login?return_to=%2Fen-US%2Fapp%2FIDA
 admin / 0000abc!
 
 deploy uat
+SQL server: 10.27.136.11
 ./bin/importProfile.py -o INTERNAL -p /app/<EnvAbbr>ioprst/<Env>/deploy/CSV/<Folder>
 UAT2 upload CSV -> 10.27.136.11 -> uaioprrl@10.27.177.91
 check uat2 db: UAT2->10.27.135.31 (capdiadmin / capdiadmin)
