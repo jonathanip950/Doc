@@ -65,5 +65,17 @@ SAT1 Termina l-> 10.27.161.11(cap\cap_sql_install | ITSAabc125) -> \\10.27.132.1
 
 
 ######################################
+ISMS for CRQ
+https://ismsmt2.corp.hkjc.com:8443/arsys/forms/ismsar2/SHR%3ALandingConsole/Default+Administrator+View/?cacheid=a4ad035c
+② Find Old CRQ for reference
+You can reference previous CRQ : CRQ000000125355
+
+③ Fill in info
+Summary: DEC2022/FO 2.0 go live implementation (IDA.OPR)
+Target release date:  2 Dec 2022 0:00~23:59
+
+④ Get CRQ number
+Click Save, and get the CRQ number for us, thanks. 
+
 
 
