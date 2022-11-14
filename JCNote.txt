@@ -1,3 +1,19 @@
+
+HR Application
+https://hcms.corp.hkjc.com/psp/hcmprd/?cmd=login&languageCd=ENG&
+
+HR Home page
+https://eipportals.corp.hkjc.com/sites/HR/SitePages/Home.aspx
+
+Team Leave Calendar
+https://eipportals.corp.hkjc.com/sites/itdcs-ei/portal/ei/Lists/Calendar/calendar.aspx
+
+Timesheet
+https://deopjira01.corp.hkjc.com/secure/Tempo.jspa#/my-work/week?type=LIST
+
+Corporate communication
+https://myjc.corp.hkjc.com/en/index.aspx
+JCNet
 TimeSheet: https://deopjira01.corp.hkjc.com/secure/Tempo.jspa#/my-work/week?type=LIST
 
 UAT RemoteDesktop: 10.194.163.64
