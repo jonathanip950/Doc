@@ -79,6 +79,8 @@ SAT1
 DevVM->\\10.194.71.216\Dev_CAP
 SAT1 Termina l-> 10.27.161.11(cap\cap_sql_install | ITSAabc125) -> \\10.27.132.196\Dev_CAP_readonly
 
+Dev5 DB 10.194.167.101
+Administrator/0000abc!
 
 ######################################
 ISMS for CRQ
