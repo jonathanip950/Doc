@@ -99,7 +99,7 @@ Click Save, and get the CRQ number for us, thanks.
 #########################################################
 sit clear db cache(idaoprstbas01)
  cd /app/itioprst/sit1/idaopr-util-profilemgr/util/current/bin/
- ./loaddata.py
+ ./reloadData.py
 
 
 
