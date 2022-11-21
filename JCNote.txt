@@ -69,7 +69,9 @@ admin / 0000abc!
 
 source=*idaopr* AND "clientID(14)"
 https://deopconf01.corp.hkjc.com/display/ITDCSI/Troubleshooting+complain+from+Client
-
+client list:
+https://deopconf01.corp.hkjc.com/display/ITDCSI/Client+list
+https://deopconf01.corp.hkjc.com/display/ITDCSI/IDA+Consumers
 ##############################
 deploy uat
 SQL server: 10.27.136.11
