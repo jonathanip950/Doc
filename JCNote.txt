@@ -66,6 +66,10 @@ check host map: http://10.194.163.61/api/ci?environment=sat1&application=ida.opr
 splunk prod : http://10.134.80.2:8000/en-US/app/search/search
 splunk dev : https://devwin21/en-US/account/login?return_to=%2Fen-US%2Fapp%2FIDA_SUB%2Fsearch
 admin / 0000abc!
+
+source=*idaopr* AND "clientID(14)"
+https://deopconf01.corp.hkjc.com/display/ITDCSI/Troubleshooting+complain+from+Client
+
 ##############################
 deploy uat
 SQL server: 10.27.136.11
