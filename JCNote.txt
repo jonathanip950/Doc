@@ -21,6 +21,13 @@ Account:  10.194.163.64\corpadmin         0000abc!
 You should be able to find a list of tools under this: \\stessdnsvm01\SBS_EI\Tools
 net use h: \\10.194.71.216\SBS_EI\Tools
 rhkjc_dm\jonathanlsip
+###################################################
+
+Please remote to 10.27.178.11 in uat1 console
+with   uacoprrl/0000abc!
+with cap\uacoprrl / 0000abc!
+
+
 ##########################
 GIT without SSL
 
