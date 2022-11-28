@@ -59,7 +59,7 @@ release doc:(DEV->)\\stessdnsvm01\SBS_EI\ReleaseDoc\2022\DEC\idaopr\
 \\stessdnsvm01\SBS_EI\ReleaseDoc\2022\DEC\idaopr\L1.19R1\
 HR System:https://hcms.corp.hkjc.com
 
-
+ps -ef | grep java
 to Check status on idaoprstbas01(su -uaioprsx) cd /app/uaioprst/uat1/idaopr-util-script/util/current/
 df -H
 du -hs * | sort -h
