@@ -80,7 +80,10 @@ client list:
 https://deopconf01.corp.hkjc.com/display/ITDCSI/Client+list
 https://deopconf01.corp.hkjc.com/display/ITDCSI/IDA+Consumers
 ##############################
-deploy uat
+Change config:
+/app/dvioprst/dev5/[component name]/i0/current/config
+
+deploy uat:
 SQL server: 10.27.136.11
 ./bin/importProfile.py -o INTERNAL -p /app/<EnvAbbr>ioprst/<Env>/deploy/CSV/<Folder>    (if whole file cannot import , try run command seperatly, essential -> client-> group)
 UAT2 upload CSV -> 10.27.136.11 -> uaioprrl@10.27.177.91
