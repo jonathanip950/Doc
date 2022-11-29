@@ -117,6 +117,8 @@ sit clear db cache(idaoprstbas01)
  cd /app/itioprst/sit1/idaopr-util-profilemgr/util/current/bin/
  ./reloadData.py
 
-
+###########################################################
+react server monitor
+http://10.194.163.61/ci
 
 
