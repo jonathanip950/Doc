@@ -66,7 +66,7 @@ du -hs * | sort -h
 su password:0000abc!
 ############################
 ansible:https://10.134.82.132/#/login
-
+Jenkins : http://devci01:8080/job/EI/job/ei_2022dec/job/EI_2022DEC-IDA.OPR.Common/build?delay=0sec
 check host map: http://10.194.163.61/api/ci?environment=sat1&application=ida.opr&hostname=zas 
 
 ########################################
@@ -120,5 +120,6 @@ sit clear db cache(idaoprstbas01)
 ###########################################################
 react server monitor
 http://10.194.163.61/ci
+##############################
 
 
