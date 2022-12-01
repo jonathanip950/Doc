@@ -69,7 +69,7 @@ ansible:https://10.134.82.132/#/login
 Jenkins : http://devci01:8080/job/EI/job/ei_2022dec/job/EI_2022DEC-IDA.OPR.Common/build?delay=0sec
 check host map: http://10.194.163.61/api/ci?environment=sat1&application=ida.opr&hostname=zas 
 
-jenkins build step, assembly(opyional)-> common(service and exp) -> service -> exp->cert manager -> solace
+jenkins build step, assembly(opyional)-> common(service and exp) -> service -> exp->cert manager ->certmanager-> solace
 ########################################
 splunk prod : http://10.134.80.2:8000/en-US/app/search/search
 splunk dev : https://devwin21/en-US/account/login?return_to=%2Fen-US%2Fapp%2FIDA_SUB%2Fsearch
