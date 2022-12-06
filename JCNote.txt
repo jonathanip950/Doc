@@ -16,6 +16,9 @@ https://myjc.corp.hkjc.com/en/index.aspx
 JCNet
 TimeSheet: https://deopjira01.corp.hkjc.com/secure/Tempo.jspa#/my-work/week?type=LIST
 
+Change Management (CO)
+->ISMS
+
 UAT RemoteDesktop: 10.194.163.64
 Account:  10.194.163.64\corpadmin         0000abc!
 You should be able to find a list of tools under this: \\stessdnsvm01\SBS_EI\Tools
