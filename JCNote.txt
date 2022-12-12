@@ -92,6 +92,10 @@ https://deopconf01.corp.hkjc.com/display/ITDCSI/Troubleshooting+complain+from+Cl
 client list:
 https://deopconf01.corp.hkjc.com/display/ITDCSI/Client+list
 https://deopconf01.corp.hkjc.com/display/ITDCSI/IDA+Consumers
+################################################
+kibana
+https://eidevvm06.corpdev.hkjc.com/kibana/
+Login:  elastic/0000abc!
 ##############################
 Change config:
 /app/dvioprst/dev5/[component name]/i0/current/config
